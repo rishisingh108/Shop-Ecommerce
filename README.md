@@ -3,7 +3,7 @@
 A clean, responsive, and fully functional E-commerce website built with **React**, **Tailwind CSS**, and powered by the **DummyJSON Product API**.
 Includes complete product browsing features like category filtering, search, product details, and pagination — all with smooth routing and error handling.
 
-🌐 **Live Demo**: [react-mini-project-ecom-website.vercel.app](https://react-mini-project-ecom-website.vercel.app/)
+🌐 **Live Demo**: [react-mini-project-ecom-website.vercel.app](https://shop-ecommerce-bice.vercel.app)
 
 ---
 
